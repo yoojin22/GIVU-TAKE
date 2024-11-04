@@ -75,7 +75,7 @@
 ---
 
 ### 1. **메인페이지**
-<img src="/uploads/907ea9c1a6b99835a3d474928be6f5fb/메인페이지.gif" width="300"/>
+<img src="image/메인페이지.gif" width="300"/>
 
 ### 2. **기부**
 <img src="/uploads/0e8b0e4104eff5937867ad8f6ef71da8/기부메인페이지.gif" width="300"/>
