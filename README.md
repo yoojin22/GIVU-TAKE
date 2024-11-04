@@ -101,6 +101,9 @@
 <img src="image/KakaoTalk_20241011_161618472.gif" width="300"/>
 <img src="image/KakaoTalk_20241011_161512182.gif" width="300"/>
 
+### 7. **지자체 관리 페이지**
+<img src="image/4.PNG" width="600"/>
+
 
 ## 🛠 서비스 특장점
 ---
