@@ -1,0 +1,57 @@
+
+body {
+    width: 700px; /* PDF에 맞는 너비 설정 */
+    margin: 0 auto;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px; /* 제목 크기 조정 */
+    margin-bottom: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid black;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 16px; /* 소제목 크기 조정 */
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 6px; /* 패딩을 줄여 공간 절약 */
+    text-align: center;
+}
+
+th {
+    background-color: #f0f0f0;
+    width: 20%; /* th의 넓이를 고정 */
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.footer-date {
+    margin-top: 20px;
+}
