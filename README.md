@@ -78,28 +78,28 @@
 <img src="image/메인페이지.gif" width="300"/>
 
 ### 2. **기부**
-<img src="/uploads/0e8b0e4104eff5937867ad8f6ef71da8/기부메인페이지.gif" width="300"/>
-<img src="/uploads/9b12f3225bb96ff580df919320a9fbc8/기부상세페이지.gif" width="300"/>
+<img src="image/기부메인페이지.gif" width="300"/>
+<img src="image/기부상세페이지.gif" width="300"/>
 
 ### 3. **관광**
-<img src="/uploads/06a8bedec0ea754dd1dc71c21f340191/KakaoTalk_20241011_161618472_02.gif" width="300"/>
-<img src="/uploads/fadd58a1e741f6108cfe042475e07e91/KakaoTalk_20241011_161618472_03.gif" width="300"/>
-<img src="/uploads/e603057479dbc746c368b27da257a713/관광관광지.gif" width="300"/>
-<img src="/uploads/9e5a990eb6db24b1b5ce70417b41f89b/KakaoTalk_20241011_161546678.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161618472_02.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161618472_03.gif" width="300"/>
+<img src="image/관광관광지.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161546678.gif" width="300"/>
 
 ### 4. **펀딩**
-<img src="/uploads/53d422c487c81f1c65188332ff75d523/KakaoTalk_20241011_161618472_05.gif" width="300"/>
-<img src="/uploads/da831a83f7b386ed0633b1df236961bd/펀딩상세보기.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161618472_05.gif" width="300"/>
+<img src="image/펀딩상세보기.gif" width="300"/>
 
 ### 5. **결제**
-<img src="/uploads/c45e1dc9ea053fd299c9107c125874f4/결제카드OCR.gif" width="300"/>
-<img src="/uploads/e831f7da7f69f2d0734b578913966fa8/KakaoTalk_20241011_161618472_01.gif" width="300"/>
-<img src="/uploads/c325ee1acb63a2604f47cb3e09d3d79b/결제카카오페이.gif" width="300"/>
+<img src="image/결제카드OCR.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161618472_01.gif" width="300"/>
+<img src="image/결제카카오페이.gif" width="300"/>
 
 ### 6. **마이페이지**
-<img src="/uploads/74bfb6c7aa94b852e23fb048626afcf3/마이페이지나의기부.gif" width="300"/>
-<img src="/uploads/ff2f477124a6105e9ded70cc813c6c40/KakaoTalk_20241011_161618472.gif" width="300"/>
-<img src="/uploads/98c077061edc9681b8115c147798ae45/KakaoTalk_20241011_161512182.gif" width="300"/>
+<img src="image/마이페이지나의기부.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161618472.gif" width="300"/>
+<img src="image/KakaoTalk_20241011_161512182.gif" width="300"/>
 
 
 ## 🛠 서비스 특장점
